@@ -19,7 +19,7 @@ This project showcases a responsive and interactive resizable box implemented us
 
 ## Preview
 
-![Resizable Box Preview](link_to_image_or_gif)
+![Resizable Box Preview](demo.png)
 
 ## Technologies Used
 
